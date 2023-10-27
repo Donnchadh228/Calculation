@@ -1,0 +1,9 @@
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.csproj.AssemblyReference.cache
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.Form1.resources
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.Form2.resources
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.Properties.Resources.resources
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.csproj.GenerateResource.cache
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.GeneratedMSBuildEditorConfig.editorconfig
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.AssemblyInfoInputs.cache
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.AssemblyInfo.cs
+E:\calculations\Сalculations\Сalculations\obj\Debug\net5.0-windows\Сalculations.csproj.CoreCompileInputs.cache
